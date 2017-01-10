@@ -73,6 +73,7 @@ body {
 .table .itemDate {
   margin-left: 29px;
   font-size: 13px;
+  font-weight: bold;
 }
 
 .table .itemConfig {
@@ -99,6 +100,10 @@ body {
 
 .priority.High {
   background: url('../img/high.png') no-repeat;
+}
+
+.overdue {
+  color: red;
 }
 
 .b-main__header {
